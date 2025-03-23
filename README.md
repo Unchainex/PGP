@@ -1,3 +1,3 @@
-Unchainex PGP public key
+*Unchainex PGP public key*
 
 Check signature on release-packages :)
